@@ -1,0 +1,31 @@
+Based on the insights from the Power BI Dashboard", here are the key business insights:
+
+1. Sales & Profit Overview
+Total Sales: $2.30 Million
+Total Profit: $286.40K
+Total Orders: 5,009
+
+2. Monthly Sales Trend
+- The sales fluctuate across the months, with noticeable peaks and dips.
+- Some months like October and December seem to show higher activity compared to others.
+This can help in seasonal demand planning.
+
+3. Sales by Region
+- West Region dominates with the highest sales (~$0.8M).
+- Followed by East, Central, and South.
+- The South Region has the lowest contribution.
+- Consider regional marketing strategies to boost underperforming areas.
+
+4. Orders by Ship Mode
+- Majority (approx. 59.72% of orders are shipped using Standard Class than other shipping modes.
+- Same Day (lowest usage at ~5.43%)
+- There’s potential to promote faster shipping options for premium customers.
+
+5. Orders by Category
+- Office Supplies leads with ~60.3% of the orders.
+- Followed by Technology (~21.22%) and Furniture (~18.48%).
+
+6. State-wise Sales & Profit
+- California stands out with the highest sales: $457,688 and highest profit: $76,381.
+- Some states like Colorado and Arizona report negative profit, suggesting operational inefficiencies or high costs.
+- Targeted analysis needed to address low or negative profitability zones.
